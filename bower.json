@@ -1,0 +1,17 @@
+{
+  "name": "fh.jquery.oauth",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fh-bower-packages/fh.jquery.oauth",
+  "authors": [
+    "ferron <ferronrsmith@gmail.com>"
+  ],
+  "main": "jquery.oauthpopup.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
